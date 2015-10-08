@@ -1,0 +1,7 @@
+.vs/
+bin/
+obj/
+*.suo
+*.user
+IPAddressRange.dll
+IPAddressRange.pdb
