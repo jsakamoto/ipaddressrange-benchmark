@@ -69,13 +69,40 @@
   </Binaries>
   <Reports>
     <Report>
-      <Path>master-original-01.vsp</Path>
+      <Path>0101-master-original-1.vsp</Path>
     </Report>
     <Report>
-      <Path>single-regex-01.vsp</Path>
+      <Path>0201-master-nolinq-1.vsp</Path>
     </Report>
     <Report>
-      <Path>static-regex-01.vsp</Path>
+      <Path>0301-single-regex-1.vsp</Path>
+    </Report>
+    <Report>
+      <Path>0401-single-regex-nolinq-1.vsp</Path>
+    </Report>
+    <Report>
+      <Path>0501-static-regex-1.vsp</Path>
+    </Report>
+    <Report>
+      <Path>0601-static-regex-nolinq-1.vsp</Path>
+    </Report>
+    <Report>
+      <Path>0202-master-nolinq-2.vsp</Path>
+    </Report>
+    <Report>
+      <Path>0102-master-original-2.vsp</Path>
+    </Report>
+    <Report>
+      <Path>0302-single-regex-2.vsp</Path>
+    </Report>
+    <Report>
+      <Path>0402-single-regex-nolinq-2.vsp</Path>
+    </Report>
+    <Report>
+      <Path>0502-static-regex-2.vsp</Path>
+    </Report>
+    <Report>
+      <Path>0602-static-regex-nolinq-2.vsp</Path>
     </Report>
   </Reports>
   <Launches>
