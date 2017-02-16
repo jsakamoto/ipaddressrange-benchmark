@@ -5,3 +5,4 @@ obj/
 *.user
 IPAddressRange.dll
 IPAddressRange.pdb
+packages/
